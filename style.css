@@ -2,6 +2,8 @@
 body {
   padding: 10px 50px;
   text-align: center;
+}
+section {
   display: flex;
 }
 .row{
@@ -9,4 +11,8 @@ body {
 }
 p {
   padding: 5px 50px;
+}
+footer {
+  font-size: 14px;
+  padding: 15px 0;
 }
